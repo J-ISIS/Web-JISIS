@@ -8,4 +8,4 @@ Web-JISIS uses a Three-Tier Architecture
 
 Web-JISIS middle tier is using Strut 2 Framework, you can get more information reading the documentation.
 
-<https://github.com/jcd92410/Web-JISIS/releases/download/V1.0.0/Web-JISIS.10.March.2016.pdf>
+<https://github.com/J-ISIS/Web-JISIS/releases/download/V1.0.0/Web-JISIS.10.March.2016.pdf>
